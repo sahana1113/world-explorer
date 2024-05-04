@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/world-explorer/static/css/main.ea16ad38.css",
+    "main.js": "/world-explorer/static/js/main.c93b7561.js",
+    "static/media/footervid.webm": "/world-explorer/static/media/footervid.ff1edde2c221e6a436b2.webm",
+    "static/media/video.mp4": "/world-explorer/static/media/video.d4e9cc6c2dc6aa74df87.mp4",
+    "static/media/img1lon.png": "/world-explorer/static/media/img1lon.3d18b2854e0f4977a147.png",
+    "static/media/img8delhi.avif": "/world-explorer/static/media/img8delhi.eb2757c55f9a8db92450.avif",
+    "static/media/img7thai.jpg": "/world-explorer/static/media/img7thai.3687009dda4be85bc828.jpg",
+    "static/media/img4paris.jpg": "/world-explorer/static/media/img4paris.c70d4efec27a9e5e0a91.jpg",
+    "static/media/img3china.jpg": "/world-explorer/static/media/img3china.d8824c80adc481753911.jpg",
+    "static/media/img6newyork.jpg": "/world-explorer/static/media/img6newyork.1e68ba3ee4f14ae1be99.jpg",
+    "static/media/img2sing.webp": "/world-explorer/static/media/img2sing.70a2cd8c320154b1ca40.webp",
+    "static/media/img5dubai.jpg": "/world-explorer/static/media/img5dubai.472139a1c4c820da525f.jpg",
+    "static/media/img9hong.webp": "/world-explorer/static/media/img9hong.20171b2f8e1aa7da4d4d.webp",
+    "index.html": "/world-explorer/index.html",
+    "main.ea16ad38.css.map": "/world-explorer/static/css/main.ea16ad38.css.map",
+    "main.c93b7561.js.map": "/world-explorer/static/js/main.c93b7561.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea16ad38.css",
+    "static/js/main.c93b7561.js"
+  ]
+}
